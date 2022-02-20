@@ -1,7 +1,7 @@
 {
   "name": "rand-mensajes",
   "version": "1.1.1",
-  "description": "random de mensajes",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,15 @@
   "author": "Harrison Paz <harri_paz@outlook.es>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "proferGlobal": true
+  "proferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harri-Pax/npm-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harri-Pax/npm-random-messages/issues"
+  },
+  "homepage": "https://github.com/Harri-Pax/npm-random-messages#readme"
 }
